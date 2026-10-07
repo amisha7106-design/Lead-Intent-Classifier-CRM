@@ -1,0 +1,4 @@
+name,email,message,intent,status
+Rahul,rahul@gmail.com,i want to know the pricing of your product.,Pricing,New
+amisha,amisha@gmail.com,"Please schedule a demo for next week,Demo Request",Demo Request,New
+dev,dev@gmail.com,i want to know more about your company.,General Enquiry,New

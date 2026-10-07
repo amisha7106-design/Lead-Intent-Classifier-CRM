@@ -1,0 +1,43 @@
+name,email,message,intent
+Rahul,rahul@gmail.com,I want to book a demo,Demo Request
+Priya,priya@gmail.com,Can I see a demo of your product?,Demo Request
+Amit,amit@gmail.com,I would like to schedule a product demonstration,Demo Request
+Neha,neha@gmail.com,Can you arrange a demo for me?,Demo Request
+Rohan,rohan@gmail.com,I want to see how your software works,Demo Request
+Amisha,Amisha@gmail.com,Please schedule a demo for next week,Demo Request
+Vikas,vikas@gmail.com,Can I get a live demonstration?,Demo Request
+Pooja,pooja@gmail.com,I am interested in a product demo,Demo Request
+Arjun,arjun@gmail.com,How can I book a demo?,Demo Request
+Sneha,sneha@gmail.com,I want to attend a demo before buying,Demo Request
+Karan,karan@gmail.com,Please show me the features in a demo,Demo Request
+Meera,meera@gmail.com,Can someone give me a demo of the platform?,Demo Request
+Raj,raj@gmail.com,What is the price of your product?,Pricing
+Simran,simran@gmail.com,How much does your software cost?,Pricing
+Aman,aman@gmail.com,Please send me your pricing details,Pricing
+Kavita,kavita@gmail.com,What are your subscription plans?,Pricing
+Suresh,suresh@gmail.com,How much is the monthly plan?,Pricing
+Nisha,nisha@gmail.com,Do you have different pricing packages?,Pricing
+Deepak,deepak@gmail.com,I want to know the cost of the service,Pricing
+Riya,riya@gmail.com,Can you share your pricing information?,Pricing
+Manish,manish@gmail.com,What is the annual subscription price?,Pricing
+Komal,komal@gmail.com,Do you offer any affordable plans?,Pricing
+Varun,varun@gmail.com,How much do I need to pay for this product?,Pricing
+Isha,isha@gmail.com,Please tell me about your plans and prices,Pricing
+Sahil,sahil@gmail.com,I cannot login to my account,Support
+Tanya,tanya@gmail.com,I am having a problem with the application,Support
+Mohit,mohit@gmail.com,My account is not working,Support
+Divya,divya@gmail.com,I forgot my password and need help,Support
+Nitin,nitin@gmail.com,The website is showing an error,Support
+Swati,swati@gmail.com,I am facing a technical issue,Support
+Yash,yash@gmail.com,My payment failed and I need help,Support
+Ravi,ravi@gmail.com,The application is not working properly,Support
+Preeti,preeti@gmail.com,I need help with my account,Support
+Akash,akash@gmail.com,There is a problem with my login,Support
+Jyoti,jyoti@gmail.com,Can you help me fix this error?,Support
+Harsh,harsh@gmail.com,I need assistance with the product,Support
+Maya,maya@gmail.com,I would like to know more about your company,General Enquiry
+Rakesh,rakesh@gmail.com,Can you tell me what your company does?,General Enquiry
+Sonia,sonia@gmail.com,I want some information about your services,General Enquiry
+Gaurav,gaurav@gmail.com,Can you tell me more about your product?,General Enquiry
+Pallavi,pallavi@gmail.com,I have a general question about your service,General Enquiry
+Dev,dev@gmail.com,What services do you provide?,General Enquiry
