@@ -19,7 +19,7 @@ The system uses **NLP + TF-IDF + Logistic Regression** to classify leads into fo
 | 🛠️ Support | Customer needs technical/help support |
 | 📧 General Enquiry | Customer wants general information |
 ## 🌐 Live Demo
-👉 [Open Live App](https://lead-intent-classifier-cm-amishakeshri.streamlit.app)
+👉 [Open Live App]https://lead-intent-classifier-crm-amishakeshri.streamlit.app
 
 ## ✨ Key Features
 
